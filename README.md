@@ -1,7 +1,6 @@
-<div align="center">
-    <h1>portfolYOU</h1>
-    <i>A beautiful portfolio Jekyll theme that works with GitHub Pages.</i>
-    <br><br>
-    <img src="screenshot.gif">
-    <sub><sup>© 2019 portfolYOU, licensed under the <a href="./LICENSE">MIT License</a>.</sup></sub>
-</div>
+This repository houses my website and my blog.
+
+the website itself is based on the theme: <https://github.com/YoussefRaafatNasry/portfolYOU>
+
+The license has been attached as-is
+
