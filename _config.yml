@@ -2,7 +2,7 @@
 title               : Shashwat's space on the internet
 description         : >-
                       I drink coffee and I know things. My interests lie in Discrete Maths, Linguistics, Economics, and Cinema.
-# baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : "/~shashwat.s"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 #repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 # remote_theme        : YoussefRaafatNasry/portfolYOU
 
